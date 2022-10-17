@@ -1,0 +1,3 @@
+enum FailReason {
+  lessThanFive, notInDictionary
+}
