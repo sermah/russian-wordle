@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:wordle_infinite/theme.dart';
+import 'package:russian_wordle/theme.dart';
 
 class TileWidget extends StatelessWidget {
   final double offsetX;

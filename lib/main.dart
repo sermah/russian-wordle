@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
-import 'package:wordle_infinite/dictionary.dart';
-import 'package:wordle_infinite/strings.dart';
-import 'package:wordle_infinite/theme.dart';
+import 'package:russian_wordle/dictionary.dart';
+import 'package:russian_wordle/strings.dart';
+import 'package:russian_wordle/theme.dart';
 import 'guess_board.dart';
 import 'master_model.dart';
 

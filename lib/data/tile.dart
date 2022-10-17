@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:wordle_infinite/letter_state.dart';
-import 'package:wordle_infinite/theme.dart';
+import 'package:russian_wordle/letter_state.dart';
+import 'package:russian_wordle/theme.dart';
 
 const _jumpOffset = 8.0;
 const _shakeOffset = 8.0;

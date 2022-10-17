@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:wordle_infinite/strings.dart';
+import 'package:russian_wordle/strings.dart';
 
 import 'letter.dart';
 import 'letter_state.dart';

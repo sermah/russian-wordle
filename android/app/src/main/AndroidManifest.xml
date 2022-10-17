@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sermah.flutter_first">
+    package="com.sermah.russian_wordle">
    <application
-        android:label="Wordle Infinite"
+        android:label="RuWordle"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

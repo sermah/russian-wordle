@@ -1,5 +1,5 @@
-name: wordle_infinite
-description: Wordle with infinite attempts.
+name: russian_wordle
+description: Russian Wordle with infinite attempts.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

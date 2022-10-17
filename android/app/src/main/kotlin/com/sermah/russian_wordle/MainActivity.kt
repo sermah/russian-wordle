@@ -1,4 +1,4 @@
-package com.sermah.flutter_first
+package com.sermah.russian_wordle
 
 import io.flutter.embedding.android.FlutterActivity
 
