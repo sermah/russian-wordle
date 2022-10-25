@@ -10,6 +10,8 @@ A Wordle clone app prototype build with Flutter.
 
 ## Screenshots:
 
-![Game in progress](readme_assets/ruwordle_progress.png)
-![Win screen](readme_assets/ruwordle_win.png)
-![Fail screen](readme_assets/ruwordle_fail.png)
+<span>
+<img src="readme_assets/ruwordle_progress.png" width=200>
+<img src="readme_assets/ruwordle_win.png" width=200>
+<img src="readme_assets/ruwordle_fail.png" width=200>
+</span>
